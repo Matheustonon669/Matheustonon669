@@ -1,4 +1,3 @@
-Aqui está uma sugestão de biografia (README) para o seu perfil do GitHub, estruturada de forma profissional e moderna. Você pode copiá-la e colá-la diretamente no arquivo `README.md` do seu perfil.
 
 ---
 
